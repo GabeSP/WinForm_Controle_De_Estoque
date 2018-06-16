@@ -1,1 +1,11 @@
 E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe.config
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csprojResolveAssemblyReference.cache
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.frmLogin.resources
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Formularios.Sistema.SplashScreen.resources
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.MDI_Menu.resources
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.Properties.Resources.resources
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.csproj.GenerateResource.Cache
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.exe
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\bin\Debug\WinForm_Controle_De_Estoque.pdb
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.exe
+E:\ETEC\3TIN\DS II\TrabalhoUltimoSemestre\WinForm_Controle_De_Estoque\WinForm_Controle_De_Estoque\obj\Debug\WinForm_Controle_De_Estoque.pdb
